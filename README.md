@@ -1,5 +1,4 @@
 - 👋 Hi, I’m riyazudeen
-- 👀 I’m interested in Data Engineer
 - 🌱 I’m currently working as a Jr Flutter developer
 
 <!---
